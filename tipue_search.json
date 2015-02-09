@@ -4,13 +4,13 @@
             "title": "Comenzando la práctica", 
             "text":"Durante el último par de semanas, comencé formalmente a practicar Yoga, me pareció un desafío interesante debido a las preconcepciones y pejuicios que tenía al respecto. Por ello, una de las primeras cosas que tuve que realizar, fue dejar a estos a ún lado.", 
             "tags": "Yoga", 
-            "loc": "./comenzando-la-practica.html"
+            "loc": "/comenzando-la-practica.html"
         },
         {
             "title": "El cuidado de los tomates", 
             "text":"El cultivo del tomate saladette, particularmente mediante la técnica de hidroponia, requiere de un cuidado específico y de dedicación. El manual de cultivo, publicado por la CUFIPRO, o Coordinadora nacional de las fundaciones produce, reúne una lista de consejos y consideraciones para procurar un rendimiento óptimo. El artículo se divide en 10 distintas categorías, a continuación los puntos más importantes de cada una: Preparación Siembra Transplante Rutina de Riego Podas Tutoreo Control de Plagas Cosecha Solución Nutritiva Síntomas de deficiencia", 
             "tags": "Hidroponia", 
-            "loc": "./el-cuidado-de-los-tomates.html"
+            "loc": "/el-cuidado-de-los-tomates.html"
         }        
     ]
 }
