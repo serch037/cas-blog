@@ -30,12 +30,12 @@ SOCIAL = (('facebook','https://www.facebook.com/profile.php?id=100001791786184')
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = False
-THEME = "/home/sergio/pelican-themes/mg"
+RELATIVE_URLS = True
+#THEME = "/home/sergio/pelican-themes/mg"
 TAG_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
-DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search', 'tipue_search')
-TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
+#DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search', 'tipue_search')
+#TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
 TYPOGRIFY = True
 SUMMARY_MAX_LENGTH = 25
 DELETE_OUTPUT_DIRECTORY = False
