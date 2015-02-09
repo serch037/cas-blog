@@ -1,5 +1,6 @@
 Title: El cuidado de los tomates
 Date: 2015-02-08
+Tags: Hidroponia
 
 El cultivo del tomate saladette, particularmente mediante la técnica de hidroponia, requiere de un cuidado específico y de dedicación. El manual de cultivo, publicado por la CUFIPRO, o Coordinadora nacional de las fundaciones produce, reúne una lista de consejos y consideraciones para procurar un rendimiento óptimo.
 
