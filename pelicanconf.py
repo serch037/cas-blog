@@ -31,7 +31,7 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
-#THEME = "/home/sergio/pelican-themes/mg"
+THEME = "/home/sergio/pelican-themes/gum"
 TAG_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
 #DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search', 'tipue_search')
