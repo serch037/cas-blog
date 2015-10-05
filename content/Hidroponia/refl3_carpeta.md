@@ -1,5 +1,5 @@
 Title: Proyecto de hidroponia
-Date: 2015-02-08
+Date: 08-02-2015
 Tags: Hidroponia
 
 Estas fueron las últimas semanas de este semestre en las que participamos en el proyecto de hidroponia, desgraciadamente no resulto una experiencia  tan exitosa como nos hubiera gustado, y debería admitir que esto en buena medida se debe a la falta de compromiso que muchos de nosotros tuvimos con el proyecto, es decir, debido al hecho de que no invertimos la máxima cantidad de tiempo y esfuerzo que hubiésemos podido, no logramos cultivar tanto como nos hubiera gustado.

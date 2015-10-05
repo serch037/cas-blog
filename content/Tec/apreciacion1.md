@@ -1,5 +1,5 @@
 Title: Apreciando el cine
-Date: 2015-02-01
+Date: 01-02-2015
 Tags: Creatividad, Apreciación cinematográfica
 <div style="text-align: center">
    <img src="http://www.vinmag.com/online/media/gbu0/prodlg/RGC110-le-voyage-de-la-lune.jpg " alt="Your alt text" title="Title"/>

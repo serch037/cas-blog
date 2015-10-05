@@ -1,6 +1,6 @@
 Title: Otro mes de yoga
-Date: 2015-05-04
-Tags: Creatividad, Apreciación cinematográfica
+Date: 05-04-2015
+Tags: Creatividad, Yoga
 
 Durante este último mes, he continuado la práctica semanal de Yoga (en realidad, entre dos a tres veces por semana y ha sido una actividad que me ha agradado mucho más de lo que tenía inicialmente había pensado, esto no significa que haya sido siempre fácil, en algunas ocasiones me resultó verdaderamente difícil el reunir la motivación para continuar con la actividad.
 Como con cualquier actividad, requiere dedicación y compromiso, el cuál puede llegar a ser difícil de mantener. Sin embargo, he mantenido mi compromiso y genuinamente procuro ofrecer mi máximo esfuerzo en cada clase al realizar posturas que puedan ser difíciles, tanto por la fuerza o por la flexibilidad que requieren.

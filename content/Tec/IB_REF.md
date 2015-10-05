@@ -1,5 +1,5 @@
 Title: IB and Mexico
-Date: 2015-02-23
+Date: 23-02-2015
 Tags: IB
 
 1. What is a typical day like in Mexico?

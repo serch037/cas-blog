@@ -1,0 +1,6 @@
+Title: (RE)Comenzando guitarra
+Date: 08-08-2015
+
+Finalmente decidí retomar la guitarra, no fue una decisión fácil emocionalmente hablando, pues tuve que enfrentarme a temores antiguos y al hecho de que, como hace mucho que no practicaba, deberé tener paciencia con mi progreso y aceptar el hecho de que tendré que volver a aprender diversas técnicas que antes dominaba pero con el pasar del tiempo fui olvidando. 
+Decidí comenzar como autodidacta, principalmente por el poco tiempo del que dispongo, pero también porque creo que será un desafío más interesante y podré revisar exclusivamente las cuestiones que me interesan del tema. 
+Mi metá por este semestre será terminar satisfactoriamente los ejercicios del libro "Solo Guitar Playing 1", y aprenderme por lo menos dos canciones que me interesen, y me parezcan que representan un reto. La primera que he decidido será "La chica de Ipanema" porque me gusta mucho y rítmicamente el estilo al que pertenece (Bossanova), es complicado. El desafío más grande será equilibrar esto con la escuela, que toma mucho tiempo y energía de mí. 

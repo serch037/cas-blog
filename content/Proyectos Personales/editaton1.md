@@ -1,5 +1,5 @@
 Title: Editatón Wikipedia Ama el Cine
-Date: 2015-02-14
+Date: 14-02-2015
 Tags: Wiki, Servicio
 <div style="text-align: center"><a href="https://www.flickr.com/photos/130970203@N08/16510377189" title="10847527_10153117373109696_7123858145493864979_o by sergiougaldem_97, on Flickr"><img src="https://farm9.staticflickr.com/8592/16510377189_e303ae45cb.jpg" width="500" height="333" alt="10847527_10153117373109696_7123858145493864979_o"></a></div>
 

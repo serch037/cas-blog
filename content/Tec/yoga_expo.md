@@ -1,5 +1,5 @@
 Title: Expocisión: la historia del yoga
-Date: 2015-04-23
+Date: 04-23-2015
 
 <div style=”float: right”>
 ![Image1]({filename}/images/image.jpg “Cuidando el invernadero”)
